@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Anh
 
-<!--
-**vietanh1109a/vietanh1109a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python automation developer focused on practical tools for repetitive business workflows, API integrations, data processing, and reporting.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python automation
+- Excel and CSV processing
+- REST API integration
+- FastAPI
+- SQL and PostgreSQL
+- Data cleaning and reporting
+
+## Featured project
+
+### Python Sales Report Automation
+
+Transforms raw sales CSV files into validated, cleaned, and formatted Excel reports with KPIs, product analytics, monthly trends, rejected-row tracking, and charts.
+
+[View the project](https://github.com/vietanh1109a/python-sales-report-automation)
+
+![Python Sales Report Automation dashboard](https://raw.githubusercontent.com/vietanh1109a/python-sales-report-automation/main/portfolio/01_summary_dashboard.png)
+
+## Current focus
+
+Building practical automation tools that reduce repetitive manual work.
